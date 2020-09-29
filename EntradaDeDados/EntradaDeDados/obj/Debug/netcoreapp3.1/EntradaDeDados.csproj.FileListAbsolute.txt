@@ -1,0 +1,12 @@
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.exe
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.deps.json
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.json
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.runtimeconfig.dev.json
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.dll
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\bin\Debug\netcoreapp3.1\EntradaDeDados.pdb
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfoInputs.cache
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.AssemblyInfo.cs
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.csproj.CoreCompileInputs.cache
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.dll
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.pdb
+E:\estudos\ws-vs2019\EntradaDeDados\EntradaDeDados\obj\Debug\netcoreapp3.1\EntradaDeDados.genruntimeconfig.cache

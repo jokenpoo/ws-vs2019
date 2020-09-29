@@ -1,0 +1,12 @@
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.exe
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.deps.json
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.json
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.runtimeconfig.dev.json
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.dll
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\bin\Debug\netcoreapp3.1\Bhaskara.pdb
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfoInputs.cache
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.AssemblyInfo.cs
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.csproj.CoreCompileInputs.cache
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.dll
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.pdb
+E:\estudos\ws-vs2019\Bhaskara\Bhaskara\obj\Debug\netcoreapp3.1\Bhaskara.genruntimeconfig.cache
